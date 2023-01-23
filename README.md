@@ -6,8 +6,6 @@
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-* [Atom](https://atom.io/)
-
 * [Node](https://nodejs.org/es/)
 
 * [Git for windows](https://gitforwindows.org/)
